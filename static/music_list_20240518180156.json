@@ -1,0 +1,63 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "9b4f8b164e5aafbf738acd9dbd6930ff",
+                "name": "Ahirlixix",
+                "artist": "",
+                "album": "",
+                "url": "static/Ahirlixix.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "9b4f8b164e5aafbf738acd9dbd6930ff",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "f7a315ad9b1619b5fe490941cc2feb67",
+                "name": "Gohar zimin",
+                "artist": "",
+                "album": "",
+                "url": "static/Gohar zimin.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "f7a315ad9b1619b5fe490941cc2feb67",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "0b14d99cd97539659afcc137224982b5",
+                "name": "Qashning karasi",
+                "artist": "",
+                "album": "",
+                "url": "static/Qashning karasi.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "0b14d99cd97539659afcc137224982b5",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "ee704a5b76cfe95a929818ec42ed7159",
+                "name": "Ya Dost",
+                "artist": "",
+                "album": "",
+                "url": "static/Ya Dost.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "ee704a5b76cfe95a929818ec42ed7159",
+                "pic_id": "",
+                "lyric_id": ""
+            }
+        ]
+    }
+]
