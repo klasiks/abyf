@@ -7,33 +7,7 @@
         "creatorAvatar": "images/avatar.jpg",
         "item": [
             {
-                "id": "9b4f8b164e5aafbf738acd9dbd6930ff",
-                "name": "Ahirlixix",
-                "artist": "",
-                "album": "",
-                "url": "static/Ahirlixix.mp3",
-                "pic": "",
-                "lyric": "",
-                "source": "local",
-                "url_id": "9b4f8b164e5aafbf738acd9dbd6930ff",
-                "pic_id": "",
-                "lyric_id": ""
-            },
-            {
-                "id": "f7a315ad9b1619b5fe490941cc2feb67",
-                "name": "Gohar zimin",
-                "artist": "",
-                "album": "",
-                "url": "static/Gohar zimin.mp3",
-                "pic": "",
-                "lyric": "",
-                "source": "local",
-                "url_id": "f7a315ad9b1619b5fe490941cc2feb67",
-                "pic_id": "",
-                "lyric_id": ""
-            },
-            {
-                "id": "0b14d99cd97539659afcc137224982b5",
+                "id": "a921573e6b5da19a80cbf5f1c3cfc18f",
                 "name": "Qashning karasi",
                 "artist": "",
                 "album": "",
@@ -41,12 +15,12 @@
                 "pic": "",
                 "lyric": "",
                 "source": "local",
-                "url_id": "0b14d99cd97539659afcc137224982b5",
+                "url_id": "a921573e6b5da19a80cbf5f1c3cfc18f",
                 "pic_id": "",
                 "lyric_id": ""
             },
             {
-                "id": "ee704a5b76cfe95a929818ec42ed7159",
+                "id": "0d3eca821af391ed8c162a653bf11f86",
                 "name": "Ya Dost",
                 "artist": "",
                 "album": "",
@@ -54,7 +28,33 @@
                 "pic": "",
                 "lyric": "",
                 "source": "local",
-                "url_id": "ee704a5b76cfe95a929818ec42ed7159",
+                "url_id": "0d3eca821af391ed8c162a653bf11f86",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "42783121229382d2824865e79dd8a9ef",
+                "name": "Ahirlixix",
+                "artist": "",
+                "album": "",
+                "url": "static/Ahirlixix.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "42783121229382d2824865e79dd8a9ef",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "40232d3b2ace8cc6b87048baf4c1b5a6",
+                "name": "Gohar zimin",
+                "artist": "",
+                "album": "",
+                "url": "static/Gohar zimin.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "40232d3b2ace8cc6b87048baf4c1b5a6",
                 "pic_id": "",
                 "lyric_id": ""
             }
